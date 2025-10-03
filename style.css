@@ -23,6 +23,13 @@ p {
     color: white;
     font-size: 17px;
     padding: 10px;
+    border-width: 3px;
+    border-color: rgb(198, 202, 205);
+    border-radius: 6px;
+}
+
+#input:focus {
+    outline: none;
 }
 
 .btnContainer {
