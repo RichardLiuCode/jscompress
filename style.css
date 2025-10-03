@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h1 {
+    font-family: arial;
+    color: rgb(38, 124, 252);
+    font-size: 41px;
+}
+
+p {
+    font-family: arial;
+    color: rgb(75, 144, 249);
+}
+
+#input {
+    width: 900px;
+    height: 700px;
+    resize: none;
+    margin: 0 auto;
+    background-color: rgb(64, 63, 63);
+    color: white;
+    font-size: 17px;
+    padding: 10px;
+}
+
+.btnContainer {
+    width: 921px;
+    margin: 0 auto;
+    text-align: right;
+}
+
+#compress {
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: rgb(63, 139, 254);
+    background-color: rgb(240, 236, 236);
+}
